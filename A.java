@@ -6,5 +6,5 @@ class A {
 	}
 }
 class B {
-	int b-a=2;
+	int b_a=2;
 }
