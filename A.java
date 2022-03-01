@@ -11,6 +11,7 @@ class B {
 }
 class C{
     int myNum=c+2;
+
     for(i = 5; i > 0; i--) {
 	int dn=3;
 	dn+=5;
