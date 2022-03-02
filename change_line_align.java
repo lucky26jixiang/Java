@@ -12,10 +12,10 @@ class B {
 class C{
     int myNum=c+2;
 
-    for(i = 5; i > 0; i--) {
-    int dn=3;
-    dn+=5;
-    int en=400000;
+    for(i = 0; i < 5; i++) {
+    int d=3;
+    d+=5;
+    int e=400;
 	System.out.println(i);
 	System.out.println(a);
     }
