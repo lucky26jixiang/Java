@@ -6,7 +6,7 @@ class A {
     }
 }
 class B {
-    int b=2;
+    int b=1;
     int c=5;
 }
 class C{
