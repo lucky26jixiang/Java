@@ -18,3 +18,4 @@ class C{
     }
     System.out.println{myNum};
 }
+
