@@ -2,10 +2,10 @@ import java.util.Scanner;
 class A {
     int lineNumber =2;
     public void move(){
-	int a=2;
     }
 }
 class B {
+    int a=2;
     int b=2;
     int c=5;
 }
